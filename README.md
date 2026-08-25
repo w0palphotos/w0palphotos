@@ -1,6 +1,6 @@
 # About Me
 
-I've been tinkering with web development and Linux for a while now from building web apps to daily-driving Fedora with a fully customized niri + DankMaterialShell setup. I also run my own [homelab](https://github.com/w0palphotos/homelab) where I self-host and experiment with services on my own hardware.
+I've been tinkering with web development and Linux for a while now from building web apps to daily-driving Fedora with a fully customized niri + DankMaterialShell setup. I also run my own [homelab](https://github.com/w0pal/homelab) where I self-host and experiment with services on my own hardware.
 
 I love Japanese culture; especially its music. You can see my Last.fm scrobbles below, and I do play some game on Steam.
 
