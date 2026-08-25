@@ -9,7 +9,7 @@ If you want to contact me, just reach me at :
 - [Discord](https://discord.com/users/567601174019047424)
 - [Threads](https://www.threads.com/@w0pal)
 
-- Favorite Character: Takamatsu Tomori (It's BanG Dream: MyGO!!!!!), Nina Iseri (Girls Band Cry), Raya Fitri Nirmala (A Space For The Unbound), Maiko (Persona 3)
+Favorite Character: Takamatsu Tomori (It's BanG Dream: MyGO!!!!!), Nina Iseri (Girls Band Cry), Raya Fitri Nirmala (A Space For The Unbound), Maiko (Persona 3)
 
 ## Last.fm
 
